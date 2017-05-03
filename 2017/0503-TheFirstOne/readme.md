@@ -48,5 +48,10 @@ Android这边，同样也可以试试，在动态化方面，了解更多。微�
 
 ![TheFirst](TheFirst.jpg)
 
+## 附，最近需要整理的一些Topic，备忘
+
+* 在DigitalOcean创建Droplet，遇到一些问题，也做一些事情
+
+* 自适应巡航，最近玩得越来越溜了，也可以分享下
 
 
