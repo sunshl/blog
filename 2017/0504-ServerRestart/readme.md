@@ -2,7 +2,7 @@
 
 ### 服务器
 
-几年前就买了[DigitalOcean](www.digitalocean.com)的服务器，一直用来作为翻墙代理服务器，有点浪费。
+几年前就买了[DigitalOcean](https://www.digitalocean.com)的服务器，一直用来作为翻墙代理服务器，有点浪费。
 
 最近想要开始写东西，就想好好利用起来，自己搭个博客。（github不便被搜索引擎收录。）
 
